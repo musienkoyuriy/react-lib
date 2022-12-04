@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["src/index.ts"],"sourcesContent":["enum Foo {\n  a,\n  b,\n  c,\n}\n"],"names":["Foo"],"mappings":"aAAA,IAAKA,GAAL,SAAKA,GACHA,EAAAA,EAAA,EAAA,GAAA,IACAA,EAAAA,EAAA,EAAA,GAAA,IACAA,EAAAA,EAAA,EAAA,GAAA,GACD,CAJD,CAAKA,IAAAA,EAIJ,CAAA"}
